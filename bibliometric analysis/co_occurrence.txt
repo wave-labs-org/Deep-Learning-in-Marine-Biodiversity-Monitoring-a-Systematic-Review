@@ -1,0 +1,35 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>
+8	aquaculture	0.697	-0.7917	4	2	2	2
+11	attention mechanism	-0.728	-0.4394	2	5	5	3
+25	cetacean	-0.4988	0.5249	3	7	9	2
+35	computer vision	-0.4278	0.2542	7	8	11	5
+36	convolutional neural network	0.2824	-0.2992	4	19	40	17
+37	convolutional neural networks	-0.717	-0.0914	2	7	9	4
+47	deep learning	0.1357	0.1229	1	30	55	32
+53	dolphin	-0.3419	0.6292	3	7	9	2
+64	few-shot learning	-0.2304	0.9505	3	2	3	2
+68	fish classification	0.952	0.114	1	5	7	4
+70	fish detection	0.8842	0.5401	1	2	2	2
+75	fish recognition	0.175	-0.649	8	3	6	2
+78	fish species	-0.2505	-0.8926	6	5	7	2
+88	image classification	-0.8493	0.0739	2	5	7	4
+91	image recognition	-0.8932	-0.2536	2	5	7	2
+95	instance segmentation	0.9054	0.392	1	3	4	2
+106	machine learning	-0.2114	0.2764	5	13	24	9
+122	mobilenet	-0.033	-0.2394	8	3	3	2
+126	neural network	-0.6489	0.6391	3	6	6	2
+135	object detection	0.5649	-0.2094	4	2	4	2
+137	object recognition	-0.3485	-0.1725	7	3	3	2
+138	optical flow	0.6658	-0.666	4	3	3	2
+146	photo-identification	-0.43	0.8476	3	6	6	2
+155	remote sensing	0.2267	0.3942	5	5	7	2
+157	resnet	-0.2753	-0.7161	6	5	7	2
+165	semantic segmentation	0.4004	0.7229	9	1	1	2
+173	species identification	1.0006	-0.1092	1	4	4	2
+184	training	-0.4131	-0.0241	7	4	4	2
+185	transfer learning	-0.5463	-0.3083	2	12	15	5
+190	underwater image	-0.088	-0.5387	8	7	12	6
+192	underwater images	-0.4675	-0.787	6	5	5	3
+198	unmanned aerial vehicle	-0.0013	0.4506	5	5	6	2
+203	vhr satellite imagery	0.3843	0.2586	5	4	4	2
+211	yolo	1.1254	-0.0033	1	3	3	5
